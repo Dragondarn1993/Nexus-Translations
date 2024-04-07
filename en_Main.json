@@ -80,6 +80,12 @@
 		"((000068))": "Under",
 		"((000069))": "Bottom",
 		"((000070))": "Custom",
-		"((000071))": "Checking for Updates..."
+		"((000071))": "Checking for Updates...",
+		"((000072))": "Global Scale",
+		"((000073))": "was disabled.",
+		"((000074))": "Click to read the Terms of Service.",
+		"((000075))": "ArcDPS Plugins",
+		"((000076))": "These are legacy ArcDPS plugins and not directly supported by Nexus.",
+		"((000077))": "Hot-Loading, Auto-Updates and all other Nexus features are not available."
 	}
 }
