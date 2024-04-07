@@ -81,5 +81,11 @@
 		"((000069))": "Abajo",
 		"((000070))": "Personalizado",
 		"((000071))": "Buscando actualizaciones..."
+		"((000072))": "Escala global"
+		"((000073))": "ha sido desactivado.",
+		"((000074))": "Clic aquí para leer los Términos de Servicio.",
+		"((000075))": "ArcDPS Plugins",
+		"((000076))": "Estos son plugins de ArcDPS heredados y no soportados directamente por Nexus.",
+		"((000077))": "La carga en caliente, las actualizaciones automáticas y el resto de funciones de Nexus no están disponibles."
 	}
 }
