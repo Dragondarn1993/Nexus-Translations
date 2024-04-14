@@ -37,7 +37,7 @@
 		"((000025))": "* Cargar addon en el siguiente inicio del juego.%s",
 		"((000026))": "Cargar##",
 		"((000027))": "Instalando...##",
-		"((000028))": "Instalado##",
+		"((000028))": "Instalar##",
 		"((000029))": "Ya instalado",
 		"((000030))": "GitHub##",
 		"((000031))": "Instalado",
@@ -75,11 +75,17 @@
 		"((000063))": "Se sobrescribirá ",
 		"((000064))": "Desvincular",
 		"((000065))": "Aceptar",
-		"((000066))": "Cancelar"
+		"((000066))": "Cancelar",
 		"((000067))": "Extender",
 		"((000068))": "Debajo",
 		"((000069))": "Abajo",
-		"((000070))": "Personalizado",
-		"((000071))": "Buscando actualizaciones..."
+		"((000070))": "Personalizada",
+		"((000071))": "Buscando actualizaciones...",
+		"((000072))": "Escala global",
+		"((000073))": "ha sido desactivado.",
+		"((000074))": "Clic aquí para leer los Términos de Servicio.",
+		"((000075))": "ArcDPS Plugins",
+		"((000076))": "Estos son plugins de ArcDPS heredados y no soportados directamente por Nexus.",
+		"((000077))": "La carga en caliente, las actualizaciones automáticas y el resto de funciones de Nexus no están disponibles."
 	}
 }
