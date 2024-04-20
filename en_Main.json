@@ -87,6 +87,7 @@
 		"((000075))": "ArcDPS Plugins",
 		"((000076))": "These are legacy ArcDPS plugins and not directly supported by Nexus.",
 		"((000077))": "Hot-Loading, Auto-Updates and all other Nexus features are not available.",
-		"((000078))": "Unloading..."
+		"((000078))": "Unloading...",
+		"((000079))": "was updated. Restart game for it to take effect.";
 	}
 }
