@@ -89,6 +89,9 @@
 		"((000077))": "Hot-Loading, Auto-Updates and all other Nexus features are not available.",
 		"((000078))": "Unloading...",
 		"((000079))": "was updated. Restart game for it to take effect.",
-		"((000080))": "will be loaded after restarting the game."
+		"((000080))": "will be loaded after restarting the game.",
+		"((000081))": "was updated.",
+		"((000082))": "is up-to-date."
+		
 	}
 }
