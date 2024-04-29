@@ -33,7 +33,7 @@
         "((000021))": "Le modifiche a questo addon non verranno salvate. Il gioco è stato avviato con gli addon abilitati tramite parametri di avvio.",
         "((000022))": "Disattiva*##",
         "((000023))": "* La disattivazione non avrà effetto fino al prossimo riavvio del gioco.%s",
-		"((000024))": "Carica##",
+	"((000024))": "Carica##",
         "((000025))": "* Carica l'addon al prossimo avvio del gioco.%s",
         "((000026))": "Carica##",
         "((000027))": "Installazione in corso...##",
@@ -80,6 +80,15 @@
         "((000068))": "Sotto",
         "((000069))": "In basso",
         "((000070))": "Personalizzato",
-        "((000071))": "Verifica degli aggiornamenti in corso..."
+        "((000071))": "Verifica degli aggiornamenti in corso...",
+	"((000072))": "Scala Globale",
+	"((000073))": "è stato disabilitato.",
+	"((000074))": "Fare clic per leggere i Termini di servizio.",
+	"((000075))": "ArcDPS Plugins",
+	"((000076))": "Questi sono vecchi plugins di ArcDPS e non sono direttamente supportati da Nexus.",
+	"((000077))": "Caricamento a caldo, aggiornamenti automatici e tutte le altre funzionalità di Nexus non sono disponibili.",
+	"((000078))": "Scaricamento...",
+	"((000079))": "è stato aggiornato. Riavvia il gioco affinchè abbia effetto.",
+	"((000080))": "verrà caricato dopo aver riavviato il gioco."
     }
 }
