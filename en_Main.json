@@ -91,7 +91,10 @@
 		"((000079))": "was updated. Restart game for it to take effect.",
 		"((000080))": "will be loaded after restarting the game.",
 		"((000081))": "was updated.",
-		"((000082))": "is up-to-date."
-		
+		"((000082))": "is up-to-date.",
+		"((000083))": "Return to Game",
+		"((000084))": "Allow Prereleases",
+		"((000085))": "Disable Prereleases",
+		"((000086))": "Show Addons Window when volatile addons get disabled"
 	}
 }
