@@ -90,5 +90,11 @@
 	"((000078))": "Scaricamento...",
 	"((000079))": "è stato aggiornato. Riavvia il gioco affinchè abbia effetto.",
 	"((000080))": "verrà caricato dopo aver riavviato il gioco."
+	"((000081))": "è stato aggiornato.",
+	"((000082))": "è già aggiornato.",
+	"((000083))": "Ritorna al gioco",
+	"((000084))": "Consenti aggiornamenti in rilascio anticipato",
+	"((000085))": "Disabilita aggiornamenti in rilascio anticipato",
+	"((000086))": "Mostra la finestra Addons quando degli addons dipendenti dalla versione del gioco vengono disabilitati"
     }
 }
