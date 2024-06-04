@@ -86,6 +86,15 @@
 		"((000074))": "Clique para ler os Termos de Serviço.",
 		"((000075))": "Plugins do ArcDPS",
 		"((000076))": "Este são plugins do ArcDPS no estado legado e não são diretamente compatíveis com o Nexus.",
-		"((000077))": "Hot-Loading, Atualizações Automáticas e todas outros recursos do Nexus não estão disponíveis."
+		"((000077))": "Hot-Loading, Atualizações Automáticas e todas outros recursos do Nexus não estão disponíveis.",
+		"((000078))": "Descarregando...",
+		"((000079))": "foi atualizado. Reinicie o jogo para entrar em efeito.",
+		"((000080))": "será carregado após reiniciar o jogo.",
+		"((000081))": "foi atualizado.",
+		"((000082))": "está atualizado.",
+		"((000083))": "Retornar ao Jogo",
+		"((000084))": "Permitir Pré-Lançamentos",
+		"((000085))": "Desativar Pré-Lançamentos",
+		"((000086))": "Mostrar a Janela de Addons quando addons voláteis forem desativados."
 	}
 }
