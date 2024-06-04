@@ -91,6 +91,10 @@
 		"((000079))": "wurde aktualisiert. Starten Sie das Spiel neu, um das Update anzuwenden.",
 		"((000080))": "wird nach dem Neustart des Spiels geladen.",
 		"((000081))": "wurde aktualisiert.",
-		"((000082))": "ist auf dem neuesten Stand."
+		"((000082))": "ist auf dem neuesten Stand.",
+		"((000083))": "Zurück zum Spiel",
+		"((000084))": "Vorabversionen aktivieren",
+		"((000085))": "Vorabversionen deaktivieren",
+		"((000086))": "Addons-Fenster anzeigen, wenn instabile Addons deaktiviert werden"
 	}
 }
