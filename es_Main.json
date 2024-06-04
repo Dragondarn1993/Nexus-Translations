@@ -86,6 +86,15 @@
 		"((000074))": "Clic aquí para leer los Términos de Servicio.",
 		"((000075))": "ArcDPS Plugins",
 		"((000076))": "Estos son plugins de ArcDPS heredados y no soportados directamente por Nexus.",
-		"((000077))": "La carga en caliente, las actualizaciones automáticas y el resto de funciones de Nexus no están disponibles."
+		"((000077))": "La carga en caliente, las actualizaciones automáticas y el resto de funciones de Nexus no están disponibles.",
+		"((000078))": "Descargando...",
+		"((000079))": "se ha actualizado. Reinicia el juego para que surta efecto.",
+		"((000080))": "se cargará después de reiniciar el juego.",
+		"((000081))": "ha sido actualizado.",
+		"((000082))": "está actualizado.",
+		"((000083))": "Volver al Juego",
+		"((000084))": "Permitir versiones preliminares",
+		"((000085))": "Desactivar versiones preliminares",
+		"((000086))": "Mostrar la ventana de Addons cuando se desactiven addons inestables"
 	}
 }
