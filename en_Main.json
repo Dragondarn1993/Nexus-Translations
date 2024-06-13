@@ -95,6 +95,7 @@
 		"((000083))": "Return to Game",
 		"((000084))": "Allow Pre-Release Updates",
 		"((000085))": "Disable Pre-Release Updates",
-		"((000086))": "Show Addons Window when volatile addons get disabled"
+		"((000086))": "Show Addons Window when volatile addons get disabled",
+		"((000087))": "All addons are up-to-date!"
 	}
 }
