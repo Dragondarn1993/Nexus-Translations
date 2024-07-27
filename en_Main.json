@@ -96,6 +96,9 @@
 		"((000084))": "Allow Pre-Release Updates",
 		"((000085))": "Disable Pre-Release Updates",
 		"((000086))": "Show Addons Window when volatile addons get disabled",
-		"((000087))": "All addons are up-to-date!"
+		"((000087))": "All addons are up-to-date!",
+		"((000088))": "Inactive",
+		"((000089))": "This is a tier %d addon.\nClick to read the Raidcore Addon Policy.",
+		"((000090))": "This addon is not classified within the Nexus Addon Library. It may violate the Terms of Service."
 	}
 }
