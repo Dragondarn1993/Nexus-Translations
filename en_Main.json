@@ -263,6 +263,7 @@
 		"((MasteryAccess03))": "Set Jade Bot Waypoint",
 		"((MasteryAccess04))": "Scan for Rift",
 		"((MasteryAccess05))": "Skyscale Leap",
+		"((MasteryAccess06))": "Conjured Doorway",
 		"((MiscAoELoot))": "AoE Loot",
 		"((MiscInteract))": "Interact",
 		"((MiscShowEnemies))": "Show Enemy Names",
@@ -271,6 +272,7 @@
 		"((MiscToggleLanguage))": "Toggle Language",
 		"((MiscTogglePetCombat))": "Ranger Pet Combat Toggle",
 		"((MiscToggleFullScreen))": "Toggle Full Screen",
+		"((MiscToggleDecorationMode))": "Decorate Mode Toggle",
 		"((ToyUseDefault))": "Equip/Unequip Novelty",
 		"((ToyUseSlot1))": "Activate Chair",
 		"((ToyUseSlot2))": "Activate Musical Instrument",
@@ -285,6 +287,7 @@
 		"((Loadout6))": "Build Template 6",
 		"((Loadout7))": "Build Template 7",
 		"((Loadout8))": "Build Template 8",
+		"((Loadout9))": "Build Template 9",
 		"((GearLoadout1))": "Equipment Template 1",
 		"((GearLoadout2))": "Equipment Template 2",
 		"((GearLoadout3))": "Equipment Template 3",
@@ -292,6 +295,7 @@
 		"((GearLoadout5))": "Equipment Template 5",
 		"((GearLoadout6))": "Equipment Template 6",
 		"((GearLoadout7))": "Equipment Template 7",
-		"((GearLoadout8))": "Equipment Template 8"
+		"((GearLoadout8))": "Equipment Template 8",
+		"((GearLoadout9))": "Equipment Template 9"
 	}
 }
