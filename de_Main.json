@@ -263,6 +263,7 @@
 		"((MasteryAccess03))": "Jade-Bot-Wegmarke setzen",
 		"((MasteryAccess04))": "Nach Riss suchen",
 		"((MasteryAccess05))": "Himmelsschuppen-Sprung",
+		"((MasteryAccess06))": "Herbeigerufener Durchgang",
 		"((MiscAoELoot))": "Plündern im Wirkungsbereich",
 		"((MiscInteract))": "Interagieren",
 		"((MiscShowEnemies))": "Namen von Feinden anzeigen",
@@ -271,6 +272,7 @@
 		"((MiscToggleLanguage))": "Sprache wechseln",
 		"((MiscTogglePetCombat))": "Tiergefährten-Kampfmodus umschalten",
 		"((MiscToggleFullScreen))": "Auf Vollbild umschalten",
+		"((MiscToggleDecorationMode))": "Dekorationsmodus umschalten",
 		"((ToyUseDefault))": "Extras ausrüsten/ablegen",
 		"((ToyUseSlot1))": "Stuhl aktivieren",
 		"((ToyUseSlot2))": "Musikinstrument aktivieren",
@@ -285,6 +287,7 @@
 		"((Loadout6))": "Build-Vorlage 6",
 		"((Loadout7))": "Build-Vorlage 7",
 		"((Loadout8))": "Build-Vorlage 8",
+		"((Loadout9))": "Build-Vorlage 9",
 		"((GearLoadout1))": "Ausrüstungs-Vorlage 1",
 		"((GearLoadout2))": "Ausrüstungs-Vorlage 2",
 		"((GearLoadout3))": "Ausrüstungs-Vorlage 3",
@@ -292,6 +295,7 @@
 		"((GearLoadout5))": "Ausrüstungs-Vorlage 5",
 		"((GearLoadout6))": "Ausrüstungs-Vorlage 6",
 		"((GearLoadout7))": "Ausrüstungs-Vorlage 7",
-		"((GearLoadout8))": "Ausrüstungs-Vorlage 8"
+		"((GearLoadout8))": "Ausrüstungs-Vorlage 8",
+		"((GearLoadout9))": "Ausrüstungs-Vorlage 9"
 	}
 }
