@@ -112,6 +112,7 @@
 		"((000100))": "Load addon to configure binds and options.",
 		"((000101))": "Disable festive flair",
 		"((000102))": "Right-Click for more options.",
+		"((000103))": "This addon is currently disabled and will automatically re-enable when an update is available.",
 		"((Movement))": "Movement",
 		"((Skills))": "Skills",
 		"((Targeting))": "Targeting",
