@@ -112,6 +112,7 @@
 		"((000100))": "Addon laden, um Tastenbelegungen und Optionen zu konfigurieren.",
 		"((000101))": "Festliches Flair deaktivieren",
 		"((000102))": "Rechtsklick für weitere Optionen.",
+		"((000103))": "Dieses Addon ist derzeit deaktiviert und wird automatisch wieder aktiviert, sobald ein Update verfügbar ist.",
 		"((Movement))": "Bewegung",
 		"((Skills))": "Fertigkeiten",
 		"((Targeting))": "Anvisieren",
