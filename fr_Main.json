@@ -98,7 +98,7 @@
 		"((000086))": "Afficher la fenêtre des extensions lorsque des extensions sont désactivées",
 		"((000087))": "Toutes les extensions sont à jour !",
 		"((000088))": "Inactif",
-		"((000089))": "Il s'agit d'une extension de niveau %.\nCliquez pour lire la politique de Raidcore en matière d'extensions.",
+		"((000089))": "Il s'agit d'une extension de niveau %d.\nCliquez pour lire la politique de Raidcore en matière d'extensions.",
 		"((000090))": "Cette extension n'est pas classée dans la bibliothèque des extensions de Nexus. Elle pourrait enfreindre les conditions d'utilisation.",
 		"((000091))": "Options de contrôle",
 		"((000092))": "Police",
