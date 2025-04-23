@@ -121,6 +121,7 @@
 		"((000109))": "Afficher ceux installées (ArcDPS)",
 		"((000110))": "Afficher ceux téléchargeable (ArcDPS)",
 		"((000111))": "Afficher le raccourci d'ArcDPS",
+		"((000112))": "Verrouille le curseur lors du déplacement de la caméra. Cela permet également d'éviter que le curseur ne se réinitialise de manière aléatoire en haut à gauche.",
 		"((Movement))": "Mouvement",
 		"((Skills))": "Compétences",
 		"((Targeting))": "Ciblage",
