@@ -122,6 +122,7 @@
 		"((000110))": "Show Downloadable (ArcDPS)",
 		"((000111))": "Show ArcDPS shortcut",
 		"((000112))": "Lock cursor when moving camera. Also prevents cursor randomly resetting to the top left.",
+		"((000113))": "DPI Scaling",
 		"((Movement))": "Movement",
 		"((Skills))": "Skills",
 		"((Targeting))": "Targeting",
