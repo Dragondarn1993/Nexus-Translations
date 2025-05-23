@@ -125,6 +125,8 @@
 		"((000113))": "DPI Scaling",
 		"((000114))": "Reset cursor position after moving camera.",
 		"((000115))": "Allow keys to pass through to the game.",
+		"((000116))": "Are you sure?",
+		"((000117))": "Uninstall addon: ",
 		"((Movement))": "Movement",
 		"((Skills))": "Skills",
 		"((Targeting))": "Targeting",
